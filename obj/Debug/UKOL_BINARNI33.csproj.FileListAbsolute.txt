@@ -1,0 +1,11 @@
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL_BINARNI33\bin\Debug\UKOL_BINARNI33.exe.config
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL_BINARNI33\bin\Debug\UKOL_BINARNI33.exe
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL_BINARNI33\bin\Debug\UKOL_BINARNI33.pdb
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL_BINARNI33\obj\Debug\UKOL_BINARNI33.csproj.AssemblyReference.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL_BINARNI33\obj\Debug\UKOL_BINARNI33.csproj.SuggestedBindingRedirects.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL_BINARNI33\obj\Debug\UKOL_BINARNI33.Form1.resources
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL_BINARNI33\obj\Debug\UKOL_BINARNI33.Properties.Resources.resources
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL_BINARNI33\obj\Debug\UKOL_BINARNI33.csproj.GenerateResource.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL_BINARNI33\obj\Debug\UKOL_BINARNI33.csproj.CoreCompileInputs.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL_BINARNI33\obj\Debug\UKOL_BINARNI33.exe
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL_BINARNI33\obj\Debug\UKOL_BINARNI33.pdb
